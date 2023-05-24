@@ -1,0 +1,36 @@
+.body{
+    background: linear-gradient(to right, #8a2be2, cyan);
+}
+
+.container1{
+    width: 600px;
+    height: 450px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 20px;
+    background-color: white;
+    padding: 20px;
+
+}
+
+.cardcontainer{
+    position: relative;
+    display: inline-block;
+    width: 450px;
+    height: 360px;
+    padding: 20px;
+    background: black;
+}
+
+.datacontainer{
+    position: relative;
+    display: inline-block;
+    width: 500px;
+    height: 270px;
+    padding: 25px;
+}
+
+
+
